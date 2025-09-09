@@ -1,5 +1,5 @@
 let patient={
-    name:"Vishal",
+    name:"vaibhav",
     blood_Group:"B+",
     Doses:5,
    isFine:True,
